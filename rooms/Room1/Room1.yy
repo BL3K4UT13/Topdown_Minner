@@ -79,6 +79,7 @@
     {"name":"inst_41DB806C","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_123FE990","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_5F78EA6F","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_158AF46B","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -106,6 +107,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_41DB806C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_invi_wall","path":"objects/obj_invi_wall/obj_invi_wall.yy",},"properties":[],"rotation":0.0,"scaleX":1.5,"scaleY":1.0,"x":296.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_123FE990","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_invi_wall","path":"objects/obj_invi_wall/obj_invi_wall.yy",},"properties":[],"rotation":0.0,"scaleX":1.5,"scaleY":1.0,"x":8.0,"y":736.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5F78EA6F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_invi_wall","path":"objects/obj_invi_wall/obj_invi_wall.yy",},"properties":[],"rotation":0.0,"scaleX":1.5,"scaleY":1.0,"x":520.0,"y":160.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_158AF46B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_player_colission","path":"objects/obj_player_colission/obj_player_colission.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":288.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Bush","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_1A54ABF2","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_flower_bush","path":"sprites/spr_flower_bush/spr_flower_bush.yy",},"x":800.0,"y":224.0,},

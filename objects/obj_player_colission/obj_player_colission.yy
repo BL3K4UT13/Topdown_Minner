@@ -1,11 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_spawn",
+  "name": "obj_player_colission",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -30,9 +28,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_spawn",
-    "path": "sprites/spr_spawn/spr_spawn.yy",
+    "name": "spr_player_colission",
+    "path": "sprites/spr_player_colission/spr_player_colission.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

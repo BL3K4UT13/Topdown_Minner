@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.0.98",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"obj_coal_ore","path":"objects/obj_coal_ore/obj_coal_ore.yy",},},
@@ -39,6 +39,7 @@
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},},
     {"id":{"name":"spr_bush","path":"sprites/spr_bush/spr_bush.yy",},},
     {"id":{"name":"spr_tleft_point","path":"sprites/spr_tleft_point/spr_tleft_point.yy",},},
+    {"id":{"name":"obj_player_colission","path":"objects/obj_player_colission/obj_player_colission.yy",},},
     {"id":{"name":"spr_top_right","path":"sprites/spr_top_right/spr_top_right.yy",},},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
     {"id":{"name":"spr_trunk","path":"sprites/spr_trunk/spr_trunk.yy",},},
@@ -51,6 +52,7 @@
     {"id":{"name":"spr_mining_right","path":"sprites/spr_mining_right/spr_mining_right.yy",},},
     {"id":{"name":"spr_bleft_point","path":"sprites/spr_bleft_point/spr_bleft_point.yy",},},
     {"id":{"name":"obj_gold_ore","path":"objects/obj_gold_ore/obj_gold_ore.yy",},},
+    {"id":{"name":"spr_player_colission","path":"sprites/spr_player_colission/spr_player_colission.yy",},},
     {"id":{"name":"spr_coal_vein","path":"sprites/spr_coal_vein/spr_coal_vein.yy",},},
     {"id":{"name":"spr_bright_point","path":"sprites/spr_bright_point/spr_bright_point.yy",},},
     {"id":{"name":"spr_middle_right","path":"sprites/spr_middle_right/spr_middle_right.yy",},},
