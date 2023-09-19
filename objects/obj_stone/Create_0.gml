@@ -1,0 +1,1 @@
+vein_life = 3
