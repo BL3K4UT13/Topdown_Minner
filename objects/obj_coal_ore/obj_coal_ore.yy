@@ -13,7 +13,10 @@
     "name": "Obj Resources",
     "path": "folders/Objects/Obj Resources.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_invi_wall",
+    "path": "objects/obj_invi_wall/obj_invi_wall.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

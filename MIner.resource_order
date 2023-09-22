@@ -24,6 +24,7 @@
     {"name":"spr_trunk","order":5,"path":"sprites/spr_trunk/spr_trunk.yy",},
     {"name":"spr_middle_center","order":3,"path":"sprites/spr_middle_center/spr_middle_center.yy",},
     {"name":"spr_outline","order":8,"path":"sprites/spr_outline/spr_outline.yy",},
+    {"name":"spr_rock_frags","order":10,"path":"sprites/spr_rock_frags/spr_rock_frags.yy",},
     {"name":"spr_bottom_left","order":6,"path":"sprites/spr_bottom_left/spr_bottom_left.yy",},
     {"name":"obj_spawn","order":2,"path":"objects/obj_spawn/obj_spawn.yy",},
     {"name":"spr_mining_right","order":7,"path":"sprites/spr_mining_right/spr_mining_right.yy",},

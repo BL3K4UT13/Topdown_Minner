@@ -1,3 +1,5 @@
+window_set_size(1920,1080)
+
 global.pause = false
 
 global.stone = 0

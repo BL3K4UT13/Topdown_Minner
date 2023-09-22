@@ -8,8 +8,11 @@ and mouse_check_button_pressed(mb_left) {
 }
 
 if vein_life <= 0{
-	global.coal += coal
-	global.stone += stone
-	instance_destroy()
+		sprite_index = spr_rock_frags
+		if image_index >= image_number - 1{
+			global.coal += coal
+			global.stone += stone
+			instance_destroy()
+		}
 }
 

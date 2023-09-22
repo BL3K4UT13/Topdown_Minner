@@ -1,3 +1,5 @@
+depth = -y
+
 if (place_meeting(x+1,y+1,obj_player) or place_meeting(x-1,y-1,obj_player) ) and global.key_action and can_break{
 	tree_life -= 1
 }

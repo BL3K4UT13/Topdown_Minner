@@ -45,6 +45,7 @@
     {"id":{"name":"spr_trunk","path":"sprites/spr_trunk/spr_trunk.yy",},},
     {"id":{"name":"spr_middle_center","path":"sprites/spr_middle_center/spr_middle_center.yy",},},
     {"id":{"name":"spr_outline","path":"sprites/spr_outline/spr_outline.yy",},},
+    {"id":{"name":"spr_rock_frags","path":"sprites/spr_rock_frags/spr_rock_frags.yy",},},
     {"id":{"name":"spr_bottom_left","path":"sprites/spr_bottom_left/spr_bottom_left.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"spr_spawn","path":"sprites/spr_spawn/spr_spawn.yy",},},
