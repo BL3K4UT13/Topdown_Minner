@@ -6,3 +6,5 @@ hspd = 0
 last_dir = 1
 can_move = true
 global.lucky = 0.01
+
+state = player_state_free

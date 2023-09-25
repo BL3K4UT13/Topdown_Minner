@@ -1,5 +1,5 @@
 
-function GetInput(){
+function player_state_free(){
 	key_up = keyboard_check(ord("W"))
 	key_down = keyboard_check(ord("S"))
 	key_left = keyboard_check(ord("A"))
@@ -32,11 +32,8 @@ function GetInput(){
 
 	hspd = lengthdir_x(len,dir)
 	vspd = lengthdir_y(len,dir)
-
 	
-	#region Sprite
-
-	image_speed = sign(len)
+		image_speed = sign(len)
 
 	if len == 0 {
 		image_index = 0
@@ -69,10 +66,21 @@ function GetInput(){
 		sprite_index = spr_player_left
 		last_dir = 4
 	}
+	show_debug_message(state)
 	
-	if global.key_action {
-	vspd = 0 
-	hspd = 0
+	if global.key_action{
+		state = player_state_mining
+	}
+	
+}
+	
+	#region Sprite
+function player_state_mining(){
+
+	xaxis = 0 
+	yaxis = 0
+	image_speed = 1
+	if global.key_action{
         if last_dir == 1 {
 		sprite_index = spr_mining_down
 	} else if last_dir == 2{
@@ -82,30 +90,18 @@ function GetInput(){
 	}else if last_dir == 4{
 		sprite_index = spr_mining_left
 	}
-
+	
+	show_debug_message(state)
+	
+	if image_index >= image_number -1{
+		state = player_state_free()
+	}
+		
 }
 
-/*if global.key_action{
-	can_move = false
-	n = 0
-	if last_dir == 1{
-		n = sprite_get_number(spr_mining_down)
-	}else if last_dir == 2{
-		n = sprite_get_number(spr_mining_up)
-	}else if last_dir == 3{
-		n = sprite_get_number(spr_mining_right)
-	}else if last_dir == 4{
-		n = sprite_get_number(spr_mining_left)
-	}
-	var i = 0
-	while i <= n{
-			sprite_index = i
-			i += 1
-	}
-	i = 0
-}
-can_move = true
-*/
+
+
+
 	
 	#endregion
 

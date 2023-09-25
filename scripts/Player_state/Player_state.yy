@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "GetInput",
+  "name": "Player_state",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

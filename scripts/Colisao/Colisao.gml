@@ -7,7 +7,7 @@ function Colisao(){
 		}
 	
 	
-	script_execute(GetInput)
+	script_execute(player_state_free)
 	
 #region Colisão Horizontal
 	

@@ -49,7 +49,7 @@
     {"name":"spr_mining_down","order":4,"path":"sprites/spr_mining_down/spr_mining_down.yy",},
     {"name":"spr_top_left","order":7,"path":"sprites/spr_top_left/spr_top_left.yy",},
     {"name":"spr_mining_up","order":5,"path":"sprites/spr_mining_up/spr_mining_up.yy",},
-    {"name":"GetInput","order":1,"path":"scripts/GetInput/GetInput.yy",},
+    {"name":"Player_state","order":1,"path":"scripts/Player_state/Player_state.yy",},
     {"name":"spr_invi_wall","order":2,"path":"sprites/spr_invi_wall/spr_invi_wall.yy",},
     {"name":"Spr_coal_wall","order":1,"path":"sprites/Spr_coal_wall/Spr_coal_wall.yy",},
     {"name":"obj_invi_wall","order":8,"path":"objects/obj_invi_wall/obj_invi_wall.yy",},
