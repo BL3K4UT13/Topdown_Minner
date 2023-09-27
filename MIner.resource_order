@@ -14,6 +14,7 @@
     {"name":"Spr Resources","order":3,"path":"folders/Sprites/Spr Resources.yy",},
     {"name":"Spr Wall","order":1,"path":"folders/Sprites/Spr Wall.yy",},
     {"name":"Tileset","order":5,"path":"folders/Tileset.yy",},
+    {"name":"Particles","order":7,"path":"folders/Particles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_trunk","order":1,"path":"objects/obj_trunk/obj_trunk.yy",},

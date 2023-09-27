@@ -4,7 +4,7 @@
   "name": "spr_rock_frags",
   "bbox_bottom": 31,
   "bbox_left": 0,
-  "bbox_right": 30,
+  "bbox_right": 31,
   "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -25,6 +25,7 @@
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"47041314-a09a-4c37-8f6b-8993df448d0f","blendMode":0,"displayName":"Layer 1","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f01812c7-55fc-4ffa-872d-98005f5cb094","blendMode":0,"displayName":"Layer 2","isLocked":false,"opacity":100.0,"visible":true,},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"14297d5e-3cdd-46fb-89f2-0fa9b23dff63","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":false,},
   ],
   "nineSlice": null,
