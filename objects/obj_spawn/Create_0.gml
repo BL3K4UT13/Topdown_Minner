@@ -18,4 +18,4 @@ if !place_meeting(x,y,obj_coal_ore) && !place_meeting(x,y,obj_gold_ore) &&
 
 respawn_time = irandom_range(10,70)
 
-alarm[0] = room_speed * respawn_time
+alarm[0] = 20 * respawn_time

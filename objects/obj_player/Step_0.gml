@@ -1,1 +1,1 @@
-Colisao()
+script_execute(state)

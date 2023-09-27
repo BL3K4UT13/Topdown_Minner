@@ -21,5 +21,5 @@ if tempo_decorrido >= 0 {
 	
 	respawn_time = irandom_range(10,70)
 
-	alarm[0] = room_speed * respawn_time
+	alarm[0] = 20 * respawn_time
 }

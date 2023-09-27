@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Obj Resources",
-    "path": "folders/Objects/Obj Resources.yy",
+    "name": "minerals",
+    "path": "folders/Objects/Obj Resources/minerals.yy",
   },
   "parentObjectId": {
     "name": "obj_invi_wall",
