@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Spr Player",
-    "path": "folders/Sprites/Spr Player.yy",
+    "name": "walk",
+    "path": "folders/Sprites/Spr Player/walk.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

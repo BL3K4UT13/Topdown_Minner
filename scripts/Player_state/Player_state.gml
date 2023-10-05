@@ -90,6 +90,7 @@ function player_state_free(){
 	
 	if mouse_check_button_pressed(mb_left){
 		image_index = 0
+		global.state_free = false
 		state = player_state_mining
 	}
 	
@@ -114,6 +115,7 @@ function player_state_mining(){
 	}
 	
 	if image_index >= image_number -1{
+		global.state_free = true
 		state = player_state_free
 	}	
 

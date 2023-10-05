@@ -16,7 +16,7 @@ if vein_life <= 0{
 		if part_system_exists(part){
 			part_system_destroy(part)
 		}
-		global.stone += 5
+		global.stone += stone
 		instance_destroy()
 	} 
 }
