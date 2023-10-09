@@ -1,5 +1,7 @@
 window_set_size(1920,1080)
 
+global.game_state = "free"
+
 global.pause = false
 
 global.stone = 0
