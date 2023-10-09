@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Spr Resources",
-    "path": "folders/Sprites/Spr Resources.yy",
+    "name": "flora",
+    "path": "folders/Sprites/Spr Resources/flora.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
