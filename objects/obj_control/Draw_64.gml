@@ -4,7 +4,7 @@ var gui_h = display_get_height()
 var xx = display_get_gui_width() /2
 var yy = display_get_gui_height() / 2
 
-if global.pause and global.game_state == "free"{
+if global.pause == true{
 	draw_set_alpha(0.5)
 	draw_set_color(c_black)
 	draw_rectangle(0,0,gui_w,gui_h,false)
@@ -19,7 +19,7 @@ if global.pause and global.game_state == "free"{
 	draw_set_font(-1)
 }
 
-if global.game_state == "free" {
+if global.pause == false {
 	draw_text(x,y,"Stone: " + string(global.stone))
 	draw_text(x,y+16,"Coal: " + string(global.coal))
 	draw_text(x,y+32,"Gold: " + string(global.gold))
