@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "SoundEffect_Mining4",
+  "name": "snd_effect_mining2",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 1.305646,
+  "duration": 0.04775,
   "parent": {
     "name": "Sound",
     "path": "folders/Sound.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "SoundEffect_Mining4.wav",
+  "soundFile": "snd_effect_mining2.wav",
   "type": 0,
   "volume": 1.0,
 }

@@ -7,6 +7,8 @@ and mouse_check_button_pressed(mb_left) {
 		vein_life -= 1
 }
 
+//script_execute(resource)
+
 if vein_life <= 0{
 	sprite_index = spr_rock_frags
 	var part = part_system_create(ps_rock_destroy)
